@@ -44,4 +44,5 @@ The application incorporates a simple machine learning model to detect whether t
 Medium Article: 
 [medium](https://medium.com/@harichselvamc/learning-morse-code-b71e58a2c9db)
 https://medium.com/@harichselvamc/learning-morse-code-b71e58a2c9db
+<br>
 Live Application : (https://morsecodeapp.streamlit.app/)
