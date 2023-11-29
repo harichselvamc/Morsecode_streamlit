@@ -43,7 +43,7 @@ st.title('Morse Code Encoder and Decoder')
 operation = st.radio('Choose operation:', ['Encode', 'Decode'])
 
 # Input text
-input_text = st.text_area(f'Enter text to {operation.lower()}:', 'Hello, World!')
+input_text = st.text_area(f'Enter text to {operation.lower()}:', 'I am harichselvam')
 
 # Checkbox for Morse code detection
 ml_enabled = st.checkbox('Enable Morse Code Detection', True)
