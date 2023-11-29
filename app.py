@@ -37,7 +37,7 @@ def is_morse_code(text):
     return prediction[0] == 1
 
 # Streamlit app
-st.title('Morse Code Encoder and Decoder with ML')
+st.title('Morse Code Encoder and Decoder')
 
 # Choose between Encode and Decode
 operation = st.radio('Choose operation:', ['Encode', 'Decode'])
